@@ -1,0 +1,6 @@
+Lake Mossman, ID 704414941
+Aditya Raju, ID 104407651
+
+There are no known limitations to our implementation
+
+We handle more corner cases than is needed. For example, for the command --rdonly, if more than one file is passed to it, our program will notify the user that extra files were passed to the command, and use the first file as input.
